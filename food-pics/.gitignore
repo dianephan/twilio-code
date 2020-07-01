@@ -1,0 +1,7 @@
+.env
+.flaskenv
+__pycache__/
+/pics
+misc.py
+setup.py
+/venv
