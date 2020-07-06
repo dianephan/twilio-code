@@ -4,4 +4,5 @@ __pycache__/
 /pics
 misc.py
 setup.py
-/venv
+venv
+script

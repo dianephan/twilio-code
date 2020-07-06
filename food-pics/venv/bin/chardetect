@@ -1,4 +1,4 @@
-#!/Users/diane/Documents/projects/twilio-code/food-pics/venv/bin/python3
+#!/Users/diane/Documents/projects/twilio-code/food-pics/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
