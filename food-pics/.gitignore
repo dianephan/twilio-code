@@ -6,3 +6,6 @@ misc.py
 setup.py
 venv
 script
+/pics
+./.DS_Store
+.DS_Store

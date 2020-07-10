@@ -47,8 +47,3 @@ def reply():
         return respond(f'Bon appetit!')
     else:
         return respond(f'Please send a picture of food.')
-
-
-
-
-            # print("The tags for your picture are : ", relevant_tags)
